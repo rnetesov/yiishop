@@ -1,0 +1,28 @@
+{
+  "name": "roman/public",
+  "authors": [
+    {
+      "name": "Roman Netesov",
+      "email": "rnetesov@gmail.com"
+    }
+  ],
+  "description": "",
+  "require": {
+    "yiisoft/yii2": "*",
+    "yiisoft/yii2-bootstrap": "2.0.10",
+    "yiisoft/yii2-faker": "~2.0.0",
+    "yiisoft/yii2-gii": "2.2.1",
+    "yiisoft/yii2-debug": "2.1.16",
+    "yiisoft/yii2-jui": "2.0.7",
+    "kartik-v/yii2-widget-datetimepicker": "*"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
+  "config": {
+    "disable-tls": true
+  }
+}

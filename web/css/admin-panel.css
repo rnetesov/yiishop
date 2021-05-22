@@ -1,0 +1,23 @@
+.panel-menu .panel-body {
+    padding: 0;
+}
+
+.badge-info {
+    background-color: #204d74;
+}
+
+.badge-danger {
+    background-color: #b92c28;
+}
+
+.badge-success {
+    background-color: #4cae4c;
+}
+
+.badge-primary {
+    background-color: #337ab7;
+}
+
+.manage-menu li.active a{
+    color: #fff;
+}
